@@ -1,0 +1,14 @@
+.grid-contenedor {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: "10px"; /* Ajusta el espacio entre los botones según tus necesidades */
+}
+
+button {
+  padding: 15px;
+  margin: 3px;
+}
+
+input {
+  margin: 15px;
+}
